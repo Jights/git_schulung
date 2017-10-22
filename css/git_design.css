@@ -1,0 +1,47 @@
+body {
+	background-color: #7f8691 ;
+}
+
+.content p {
+    color: white;
+    font-size: 18px;
+}
+
+.content p:last-child {
+	margin-bottom: 2%;
+}
+
+img {
+	width: 300px;
+	border: 2px solid black;
+	border-radius: 4%;
+}
+
+h1 {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 35px;
+	color: navajowhite;
+}
+
+#button_id {
+	color: white;
+	background-color: #131111;
+	border-color: #4a4040;
+	font-weight: bold;
+	font-size: 20px;
+	margin-top: 2%;
+}
+
+
+/*FOOTER*/
+
+footer {
+    border-top: 3px solid white;
+    margin-top: 2%;
+}
+
+footer p {
+    text-align: center;
+    font-size: 13px;
+}
