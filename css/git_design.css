@@ -17,11 +17,24 @@ img {
 	border-radius: 4%;
 }
 
+.image_container {
+    text-align: center;
+}
+
 h1 {
 	font-weight: bold;
 	font-style: italic;
 	font-size: 35px;
 	color: navajowhite;
+}
+
+.content_inner {
+    width: 510px;
+    margin: 0 auto;
+}
+
+.jscript {
+    text-align: center;
 }
 
 #button_id {
