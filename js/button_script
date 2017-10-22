@@ -1,0 +1,3 @@
+function myFunction() {
+            alert("Danke, dass Sie auf diesen Button geklickt haben!");
+            }
